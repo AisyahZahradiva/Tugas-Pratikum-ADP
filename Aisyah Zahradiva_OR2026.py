@@ -23,7 +23,7 @@ def transformasi(x):
             s_baru=int(s_ganti)
             if prima(s_baru) == True:
                 hasil.append(s_baru)
-                '''break'''
+                break
     return hasil
             
 #Program utama
